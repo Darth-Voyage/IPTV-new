@@ -9697,6 +9697,9 @@ https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-5075
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sW85XB1/abc.png" group-title="News", ABC Australia (Vidio) 
 https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7150 
 
+#EXTINF:-1 tvg-logo="" group-title="News", Duta Tv 
+https://v2.siar.us/dutatv/live/chunks.m3u8
+
 //Religi 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DRR0PWX/cmuslim.png" group-title="Religi", Citra Muslim (Vidio) 

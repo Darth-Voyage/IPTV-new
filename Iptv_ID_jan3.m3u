@@ -4608,10 +4608,8 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" tvg-country="MY" tvg-url="" group-title="Malaysia",TV Ikim
 http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" tvg-country="MY" tvg-url="" group-title="Malaysia",TV Ikim
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" tvg-country="MY" tvg-url="" group-title="Malaysia",TV Ikim
-http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/mX1nnGy.png" tvg-country="MY" tvg-url="" group-title="Malaysia",TV3
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZOyvsQe7pFQVj7wtRJpu6Y)/dm/3/x6qp375/d/live-3.m3u8
 #EXTINF:-1 tvg-id="Smash TV-MLT" tvg-name="" tvg-language="" tvg-logo="https://static.iptv-epg.com/mt/SmashTV.mt.png" tvg-country="MT" tvg-url="" group-title="Malta",Smash TV
 http://s3.smashmalta.com/hls/smash/smash.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x8lwsjM.png" tvg-country="MX" tvg-url="" group-title="Mexico",ADN 40
@@ -8693,7 +8691,7 @@ https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/azGNY6n.jpg" tvg-country="YE" tvg-url="" group-title="Yemen",Yemen TV
 https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/160px-TV3_%28Malaysia%29.svg.png" tvg-country="MY" tbg-url="" group-title="Malaysia",TV3
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQPeBHdcUt90q7auPRUTw8Q)/dm/3/x6qp375/d/live-1.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZOyvsQe7pFQVj7wtRJpu6Y)/dm/3/x6qp375/d/live-3.m3u8
 #EXTINF:-1 tvg-id="TV 9" tvg-name="TV 9" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d8/TV9logo_baru.jpg" tvg-country="MY" tvg-url="" group-title="Malaysia",TV9
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHab2lBbN9QrLOV7WZxkxmgc)/dm/3/x6qqja6/s/live-1.m3u8
 #EXTINF:-1 tvg-id="nTv7" tvg-name="nTv7" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/28/NTV7_New.JPG/240px-NTV7_New.JPG" tvg-country="MY" tvg-url="" group-title="Malaysia",nTv7

@@ -8792,8 +8792,11 @@ http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=0
 --
 #EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/inews.png" group-title="Local Channel",iNews (Server 4)
 http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="" group-title="Local Channel",DutaTv
-https://v2.siar.us/dutatv/live/chunks.#EXTINF:-1 tvg-id=TV 1 tvg-name=TV_1 tvg-logo=”TV 1.png” group-title=”RTM”,TV 1
+https://v2.siar.us/dutatv/live/chunks.
+
+#EXTINF:-1 tvg-id=TV 1 tvg-name=TV_1 tvg-logo=”TV 1.png” group-title=”RTM”,TV 1
 http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch001.stream_360p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id=TV 2 tvg-name=TV_2 tvg-logo=”TV 2.png” group-title=”RTM”,TV 2
@@ -8927,9 +8930,6 @@ http://83.139.104.105/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3
 
 #EXTINF:-1 tvg-id=Arirang tvg-name=Arirang tvg-logo=”Arirang.png” group-title=”KOREA”, Arirang
 http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
-
-#EXTINF:-1 tvg-id=MBC tvg-name=MBC tvg-logo=”MBC.png” group-title=”KOREA”, MBC
-rtmp://fms.mbcgn.kr:1935/livepkgr_j_tv playpath=livestream2 swfUrl=http://www.mbcgn.kr/onair/swfs/StrobeMediaPlayback.swf live=1 pageUrl=http://www.mbcgn.kr/onair/player.php?id=TVJJ
 
 #EXTINF:-1 tvg-id=KCTV tvg-name=KCTV tvg-logo=”KCTV.png” group-title=”KOREA”, KCTV
 rtsp://media2.kctvjeju.com/live5
@@ -9145,6 +9145,7 @@ https://home-tv.web.id/dinda/coba.m3u8?channel=usee-beritasatu
 
 #EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="LOKAL-UseeTv",Kompas TV 
 https://home-tv.web.id/dinda/coba.m3u8?channel=usee-kompastv 
+
 #EXTINF:-1 tvg-id="" tvg-name="JITV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jitv_small.png?v=2.0.0.13" group-title="LOKAL-UseeTv",JITV 
 https://home-tv.web.id/dinda/coba.m3u8?channel=usee-jitv 
 
@@ -9182,7 +9183,9 @@ https://home-tv.web.id/dinda/coba.m3u8?channel=usee-tvri
 https://home-tv.web.id/dinda/coba.m3u8?channel=usee-daaitv 
 
 #EXTINF:-1 tvg-id="" tvg-name="RRI NET" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13" group-title="LOKAL-UseeTv",RRI NET 
-https://home-tv.web.id/dinda/coba.m3u8?channel=usee-rrinet //LOKAL VIDEO 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-rrinet 
+
+//LOKAL VIDEO 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png" group-title="LOKAL-Vidio", SCTV 
 https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-204 
@@ -9376,7 +9379,10 @@ https://home-tv.web.id/dinda/coba.m3u8?channel=usee-cgtndocumentary
 https://home-tv.web.id/dinda/coba.m3u8?channel=usee-lingua 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="Knowledge", Smithsonian (Vidio) 
-https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6550 //LIFESTYLE 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6550 
+
+//LIFESTYLE 
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indishopping_small.png" group-title="Lifestyle", Indihome Shopping 
 https://home-tv.web.id/dinda/coba.m3u8?channel=usee-indishopping 
 
@@ -9395,11 +9401,13 @@ https://home-tv.web.id/dinda/coba.m3u8?channel=usee-fashiontv
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashionone_small1.png?v=2.0.0.13" group-title="Lifestyle", FASHION ONE 
 https://home-tv.web.id/dinda/coba.m3u8?channel=usee-fashionone 
 
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="Lifestyle", HGTV (dapat dibuka di ott navigator) 
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="Lifestyle", HGTV 
 https://home-tv.web.id/dinda/coba.m3u8?channel=usee-hgtv //Kids 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="Kids", M Kidz 
-https://home-tv.web.id/dinda/coba.m3u8?channel=usee-mykids #EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="Kids", HipHip Horee (Vidio) 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-mykids 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="Kids", HipHip Horee (Vidio) 
 https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7052 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids", Baby First 
@@ -9436,7 +9444,9 @@ https://home-tv.web.id/dinda/coba.m3u8?channel=usee-dreamworks
 https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6533 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="Kids", DaVinci (Vidio) 
-https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6549 //Music 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6549 
+
+//Music 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" group-title="Music", Citra Dangdut 
 https://home-tv.web.id/dinda/coba.m3u8?channel=usee-citradangdut 
@@ -9491,6 +9501,7 @@ http://104.237.60.234/live/gabruutv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png" group-title="Music",Go-rtv Music 
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png" group-title="Music",IBC Music 
 https://ibcmusic-live.ibctamil.com/transcode/music.m3u8 
 
@@ -9551,7 +9562,8 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8 //RADIO VIDIO
 #EXTINF:-1 tvg-logo="https://i.ibb.co/syNkDJR/prambors.png" group-title="Radio-Vidio", prambors 
 https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7004 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gM3x2PR/hardrockfm.png" group-title="Radio-Vidio", Hardrock https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7053 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gM3x2PR/hardrockfm.png" group-title="Radio-Vidio", Hardrock 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7053 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HVQsRd0/brava.png" group-title="Radio-Vidio", Brava 
 https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7054 
@@ -9584,4 +9596,188 @@ https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7169
 https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7170 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHdNWYt/ardanfm.png" group-title="Radio-Vidio", Ardan 
-https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7184 #EXTINF:-1 tvg-logo="https://i.ibb.co/F5D14ZF/mgt.png" group-title="Radio-Vidio", MGT https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7188 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RH7RGT/geronimo.png" group-title="Radio-Vidio", Geronimo https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7216 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Fyr1Tm/shusi.png" group-title="Radio-Vidio", Sushi https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7218 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDP8tZy/dahlia.png" group-title="Radio-Vidio", Dahlia https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7242 #EXTINF:-1 tvg-logo="https://i.ibb.co/8XXHn4J/swaragama.png" group-title="Radio-Vidio", Swaragama https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7248 #EXTINF:-1 tvg-logo="https://i.ibb.co/yspjdcm/imelda.png" group-title="Radio-Vidio", Imelda https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7281 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1pzdJk/swara-smarang.png" group-title="Radio-Vidio", Swara Semarang https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7283 #EXTINF:-1 tvg-logo="https://i.ibb.co/SxYkDB1/gajah.png" group-title="Radio-Vidio", Gajahmada https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7284 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZGh8BWT/cakra.png" group-title="Radio-Vidio", Cakra https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7297 #EXTINF:-1 tvg-logo="https://i.ibb.co/9vX60HD/genfm.png" group-title="Radio-Vidio", Gen Jakarta https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7443 #EXTINF:-1 tvg-logo="https://i.ibb.co/tqwBq0Y/kisfm.png" group-title="Radio-Vidio", Kis https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7445 #EXTINF:-1 tvg-logo="https://i.ibb.co/7jCXChY/gensuabaya.png" group-title="Radio-Vidio", Gen Surabaya https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7446 #EXTINF:-1 tvg-logo="https://i.ibb.co/XWXJGSW/mustang-fm.png" group-title="Radio-Vidio", Mustang https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7447 #EXTINF:-1 tvg-logo="https://i.ibb.co/RgSL43h/hot.png" group-title="Radio-Vidio", Hot https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7448 #EXTINF:-1 tvg-logo="https://i.ibb.co/bKFHYN1/jakfm.png" group-title="Radio-Vidio", Jak https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7449 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbXqTkN/mostfm.png" group-title="Radio-Vidio", Most Radio https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7450 //NEWS #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="News", CNBC Indonesia https://home-tv.web.id/dinda/coba.m3u8?channel=usee-cnbcindonesia #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcasias_small.png" group-title="News", CNBC Asia https://home-tv.web.id/dinda/coba.m3u8?channel=usee-cnbcasia #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="News", CNN Indonesia https://home-tv.web.id/dinda/coba.m3u8?channel=usee-cnnindonesia #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="News", CNN International https://home-tv.web.id/dinda/coba.m3u8?channel=usee-cnninternational #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="News", Aljazeera https://home-tv.web.id/dinda/coba.m3u8?channel=usee-aljazeera #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idx_small.png" group-title="News", IDX https://home-tv.web.id/dinda/coba.m3u8?channel=usee-idx #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="News", abc australia https://home-tv.web.id/dinda/coba.m3u8?channel=usee-abcaustralia #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title="News", DW (English) https://home-tv.web.id/dinda/coba.m3u8?channel=usee-dwtv #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title="News", France 24 https://home-tv.web.id/dinda/coba.m3u8?channel=usee-france24 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title="News", CNA https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" group-title="News", TRT World https://home-tv.web.id/dinda/coba.m3u8?channel=usee-trtworld #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="News", Bloomberg https://home-tv.web.id/dinda/coba.m3u8?channel=usee-blomberg #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="News", EuroNews https://home-tv.web.id/dinda/coba.m3u8?channel=usee-euronews #EXTINF:-1 tvg-logo="https://i.ibb.co/PFTLKT7/aljazeera.png" group-title="News", Aljazeera (Vidio) https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6410 #EXTINF:-1 tvg-logo="https://i.ibb.co/6m3Kf7H/euronews.png" group-title="News", EuroNews (Vidio) https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6412 #EXTINF:-1 tvg-logo="https://i.ibb.co/1JSWx2N/dw.png" group-title="News", DW (English) (Vidio) https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-5075 #EXTINF:-1 tvg-logo="https://i.ibb.co/sW85XB1/abc.png" group-title="News", ABC Australia (Vidio) https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7150 //Religi #EXTINF:-1 tvg-logo="https://i.ibb.co/DRR0PWX/cmuslim.png" group-title="Religi", Citra Muslim (Vidio) https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6678 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="Religi", Rodja TV https://home-tv.web.id/dinda/coba.m3u8?channel=usee-rodjatv #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png" group-title="Religi", Tawaf TV https://home-tv.web.id/dinda/coba.m3u8?channel=usee-tawaftv #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png?v=2.0.0.13" group-title="Religi", MTA TV https://home-tv.web.id/dinda/coba.m3u8?channel=usee-mtatv #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png?v=2.0.0.13" group-title="Religi", MUI TV https://home-tv.web.id/dinda/coba.m3u8?channel=usee-muitv #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png?v=2.0.0.13" group-title="Religi", AL Quran AL Kareem https://home-tv.web.id/dinda/coba.m3u8?channel=usee-alquran #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mqtv_small1.png?v=2.0.0.13" group-title="Religi", MQTV https://home-tv.web.id/dinda/coba.m3u8?channel=usee-mqtv #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png?v=2.0.0.13" group-title="Religi", TV9 NU https://home-tv.web.id/dinda/coba.m3u8?channel=usee-tv9 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="Religi", Muhammadiyah TV https://home-tv.web.id/dinda/coba.m3u8?channel=usee-muhammadiyahtv #EXTINF:-1 tvg-logo="https://i.ibb.co/fnjZHs3/ajwa.png" group-title="Religi", Ajwa TV (Vidio) https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7464 #EXTINF:-1 tvg-logo="https://i.ibb.co/RpDVM0G/quran.png" group-title="Religi", AL Quran AL Kareem (Vidio) https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6852 #EXTINF:-1 tvg-logo="https://i.ibb.co/5G1jXkP/r21.png" group-title="Religi", Reformed 21 (Vidio) https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6853 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbkHsSv/uchan.png" group-title="Religi", U Channel (Vidio) https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6898 //OLAHRAGA VIDIO #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="Sports Utama", ChampionTV 1 (Vidio) https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6685 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="Sports Utama", ChampionTV 2 (Vidio) https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6686 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="Sports Utama", ChampionTV 3 (Vidio) https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6786 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Sports Utama", Champion TV 1 https://home-tv.web.id/dinda/coba.m3u8?channel=usee-champion1 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="Sports Utama", Champion TV 2 https://home-tv.web.id/dinda/coba.m3u8?channel=usee-champion2 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="Sports Utama", UseeSports 1 https://home-tv.web.id/dinda/coba.m3u8?channel=usee-useesport #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="Sports Utama", UseeSports 2 (off) https://home-tv.web.id/dinda/coba.m3u8?channel=usee-useesport2 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports Utama", Bein Sport 1 https://home-tv.web.id/dinda/coba.m3u8?channel=usee-bein1 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Sports Utama", bein Sport 2 https://home-tv.web.id/dinda/coba.m3u8?channel=usee-bein2 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="Sports Utama", Fox Sport 1 https://home-tv.web.id/dinda/coba.m3u8?channel=usee-foxsport1 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="Sports Utama", Fox Sport 2 https://home-tv.web.id/dinda/coba.m3u8?channel=usee-foxsport2 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="Sports Utama", Fox Sport 3 https://home-tv.web.id/dinda/coba.m3u8?channel=usee-foxsport3 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png?v=2.0.0.14" group-title="Sports Utama", Golf https://home-tv.web.id/dinda/coba.m3u8?channel=usee-golfplus #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="Sports Utama", eGG TV https://home-tv.web.id/dinda/coba.m3u8?channel=usee-egg 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7184 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F5D14ZF/mgt.png" group-title="Radio-Vidio", MGT 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7188 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RH7RGT/geronimo.png" group-title="Radio-Vidio", Geronimo 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7216 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Fyr1Tm/shusi.png" group-title="Radio-Vidio", Sushi 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7218 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDP8tZy/dahlia.png" group-title="Radio-Vidio", Dahlia 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7242 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8XXHn4J/swaragama.png" group-title="Radio-Vidio", Swaragama 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7248 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yspjdcm/imelda.png" group-title="Radio-Vidio", Imelda 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7281 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1pzdJk/swara-smarang.png" group-title="Radio-Vidio", Swara Semarang 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7283 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SxYkDB1/gajah.png" group-title="Radio-Vidio", Gajahmada 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7284 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGh8BWT/cakra.png" group-title="Radio-Vidio", Cakra 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7297 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9vX60HD/genfm.png" group-title="Radio-Vidio", Gen Jakarta 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7443 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqwBq0Y/kisfm.png" group-title="Radio-Vidio", Kis 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7445 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jCXChY/gensuabaya.png" group-title="Radio-Vidio", Gen Surabaya 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7446 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XWXJGSW/mustang-fm.png" group-title="Radio-Vidio", Mustang 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7447 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RgSL43h/hot.png" group-title="Radio-Vidio", Hot 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7448 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bKFHYN1/jakfm.png" group-title="Radio-Vidio", Jak 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7449 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pbXqTkN/mostfm.png" group-title="Radio-Vidio", Most Radio 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7450 //NEWS 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="News", CNBC Indonesia 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-cnbcindonesia 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcasias_small.png" group-title="News", CNBC Asia 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-cnbcasia 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="News", CNN Indonesia 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-cnnindonesia 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="News", CNN International 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-cnninternational 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="News", Aljazeera 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-aljazeera 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idx_small.png" group-title="News", IDX 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-idx 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="News", abc australia 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-abcaustralia 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title="News", DW (English) 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-dwtv 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title="News", France 24 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-france24 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title="News", CNA 
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" group-title="News", TRT World 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-trtworld 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="News", Bloomberg 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-blomberg 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="News", EuroNews 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-euronews 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PFTLKT7/aljazeera.png" group-title="News", Aljazeera (Vidio) 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6410 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6m3Kf7H/euronews.png" group-title="News", EuroNews (Vidio) 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6412 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1JSWx2N/dw.png" group-title="News", DW (English) (Vidio) 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-5075 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sW85XB1/abc.png" group-title="News", ABC Australia (Vidio) 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7150 
+
+//Religi 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DRR0PWX/cmuslim.png" group-title="Religi", Citra Muslim (Vidio) 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6678 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="Religi", Rodja TV 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-rodjatv
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png" group-title="Religi", Tawaf TV 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-tawaftv 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png?v=2.0.0.13" group-title="Religi", MTA TV 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-mtatv 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png?v=2.0.0.13" group-title="Religi", MUI TV 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-muitv 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png?v=2.0.0.13" group-title="Religi", AL Quran AL Kareem 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-alquran 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mqtv_small1.png?v=2.0.0.13" group-title="Religi", MQTV 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-mqtv 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png?v=2.0.0.13" group-title="Religi", TV9 NU 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-tv9 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="Religi", Muhammadiyah TV 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-muhammadiyahtv 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fnjZHs3/ajwa.png" group-title="Religi", Ajwa TV (Vidio) 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-7464 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpDVM0G/quran.png" group-title="Religi", AL Quran AL Kareem (Vidio) 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6852 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5G1jXkP/r21.png" group-title="Religi", Reformed 21 (Vidio) 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6853 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dbkHsSv/uchan.png" group-title="Religi", U Channel (Vidio) 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6898 
+
+//OLAHRAGA VIDIO 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="Sports Utama", ChampionTV 1 (Vidio) 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6685 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="Sports Utama", ChampionTV 2 (Vidio) 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6686 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="Sports Utama", ChampionTV 3 (Vidio) 
+https://home-tv.web.id/dinda/coba.m3u8?channel=vidio-6786 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Sports Utama", Champion TV 1 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-champion1 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="Sports Utama", Champion TV 2 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-champion2 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="Sports Utama", UseeSports 1 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-useesport 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="Sports Utama", UseeSports 2 (off) 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-useesport2 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports Utama", Bein Sport 1 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-bein1 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Sports Utama", bein Sport 2 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-bein2 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="Sports Utama", Fox Sport 1 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-foxsport1 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="Sports Utama", Fox Sport 2 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-foxsport2 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="Sports Utama", Fox Sport 3 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-foxsport3 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png?v=2.0.0.14" group-title="Sports Utama", Golf 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-golfplus 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="Sports Utama", eGG TV 
+https://home-tv.web.id/dinda/coba.m3u8?channel=usee-egg 

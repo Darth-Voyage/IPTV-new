@@ -7092,6 +7092,8 @@ https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 https://www.30a-tv.com/InvPit.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/gNWg9tl.png" tvg-country="US" tvg-url="" group-title="United States",30A Music
 https://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/327-3272080_court-tv-logo-png-transparent-court-tv-logo.png" tvg-country="US" tvg-url="" group-title="United States",Court TV
+https://courttv-plutolive-vo.akamaized.net/m/hlslive/courttv/1/courttv.m3u8?chname=courttv&pub=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png" tvg-country="US" tvg-url="" group-title="United States",30A Sidewalks
 https://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/4TEMhxH.png" tvg-country="US" tvg-url="" group-title="United States",30A TV
@@ -8684,6 +8686,7 @@ http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SlS8xic.png" tvg-country="VI" tvg-url="" group-title="Virgin Islands of the United States",WSVI TV
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KJTEVbf.png" tvg-country="YE" tvg-url="" group-title="Yemen",Aden TV
 https://master.starmena-cloud.com/hls/aden.m3u8
